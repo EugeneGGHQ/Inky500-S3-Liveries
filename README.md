@@ -1,7 +1,7 @@
 # Inky500-S3-Liveries
 ## A collection of ACC User submitted Liveries to be used in the Inky 500 Season 3, starting October 2023.
 
-![webpagedownload](https://github.com/EugeneGGHQ/Inky500-S3-Liveries/assets/60108700/c812b128-327a-4f73-8203-a436feed5b65)
+![webpagedownloadsml](https://github.com/EugeneGGHQ/Inky500-S3-Liveries/assets/60108700/fed86a6c-a11c-4c78-bc8d-29d09781a61a)
 
 ######################
 #### INSTRUCTIONS ####
